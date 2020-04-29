@@ -210,7 +210,7 @@
   }
 }
 
-.signup-section{
+.contact-section{
   padding:10rem 0;
   background:linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url(../img/my_logo.jpg);
   background-position:center;
@@ -219,7 +219,7 @@
   background-size:cover
 }
 
-.signup-section .form-inline input{
+.contact-section .form-inline input{
   box-shadow:0 .1875rem .1875rem 0 rgba(0,0,0,.1)!important;
   padding:1.25rem 2rem;
   height:auto;
@@ -230,33 +230,33 @@
   border:0
 }
 
-.contact-section{
+.contact-old-section{
   padding:5rem 0 0
 }
 
-.contact-section .card{
+.contact-old-section .card{
   border:0;
   border-bottom:.25rem solid #64a19d
 }
 
-.contact-section .card h4{
+.contact-old-section .card h4{
   font-size:.8rem;
   font-family:'Varela Round';
   text-transform:uppercase;
   letter-spacing:.15rem
 }
 
-.contact-section .card hr{
+.contact-old-section .card hr{
   border-color:#64a19d;
   border-width:.25rem;
   width:3rem
 }
 
-.signup-section .social{
+.contact-section .social{
   margin-top:5rem
 }
 
-.signup-section .social a{
+.contact-section .social a{
   text-align:center;
   height:3rem;
   width:3rem;
@@ -266,11 +266,11 @@
   color:rgba(255,255,255,.3)
 }
 
-.signup-section .social a:hover{
+.contact-section .social a:hover{
   color:rgba(255,255,255,.5)
 }
 
-.signup-section .social a:active{
+.contact-section .social a:active{
   color:#fff
 }
 
